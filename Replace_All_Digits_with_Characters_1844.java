@@ -8,3 +8,4 @@ public class Replace_All_Digits_with_Characters_1844 {
 
         return String.valueOf(A);
     }
+}
